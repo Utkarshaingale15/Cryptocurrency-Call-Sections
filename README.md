@@ -1,5 +1,5 @@
 # Call-Sections-Using-ID
-Call different sections of the bootstrap UI using ID
+Call different sections of the Cryptocurrency UI using ID
 
 ![home](https://user-images.githubusercontent.com/92079968/138130549-e4261727-1a10-4d29-ab4f-7cc3388e3791.PNG)
 ![features](https://user-images.githubusercontent.com/92079968/138130610-3a43785e-5f4d-4527-97a4-0b75c04bab56.PNG)
